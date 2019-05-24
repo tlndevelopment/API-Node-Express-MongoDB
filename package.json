@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalium1993/API-Node-Express-MongoDB.git"
+  },
+  "author": "Kalium1993",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalium1993/API-Node-Express-MongoDB/issues"
+  },
+  "homepage": "https://github.com/Kalium1993/API-Node-Express-MongoDB#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
