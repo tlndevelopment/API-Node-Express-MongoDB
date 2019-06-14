@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Kalium1993/API-Node-Express-MongoDB#readme",
   "dependencies": {
-    "express": "^4.17.0"
+    "express": "^4.17.0",
+    "mongoose": "^5.5.15"
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
